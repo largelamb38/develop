@@ -12,6 +12,8 @@ export default function ShopItem(props) {
         <Card.Text>
       <Card.Img variant="top" src={props.item.image} />
           <p>{props.item.description}</p>
+          <p>Brand: {props.item.brand}</p>
+          <p>Category: {props.item.category}</p>
           ${props.item.price}
         </Card.Text>
         <Button onClick={() => props.updateCart(props.index)}> Add to cart!</Button>
