@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 }
 
 .App-logo {
@@ -35,4 +34,44 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.layoutContainer{
+  display: flex;
+}
+
+.cart{
+  flex:1;
+  position: fixed;
+  border-style: solid;
+  padding: 1vw;
+}
+
+.spacing{
+  flex:1.5;
+}
+
+.container {
+  display: flex;
+  flex: 4;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 2vw;
+}
+
+.full {
+  background-color: 	#F5F8FA;
+  color: #14171A;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: Arial;
+  font-size: 500px;
+  color: #1DA1F2
+}
+
+h2 {
+  font-family: Arial;
 }

@@ -1,0 +1,112 @@
+[
+    {
+      "name": "Wilson blade",
+      "description": "This racquet is endorsed by Alex de Minaur",
+      "brand": "Wilson",
+      "category": "racquets",
+      "price": 250,
+      "image": "https://img.tennis-warehouse.com/reviews/B9816C-R1.jpg",
+      "uid": 1
+    },
+
+    {
+      "name": "Nike Zoom Vapor",
+      "description": "Shoes so light you feel like you're flying",
+      "brand": "Nike",
+      "category": "shoes",
+      "price": 100,
+      "image": "https://cdn.runrepeat.com/i/nike/33059/nikecourt-air-zoom-vapor-x-white-dcde-main.jpg",
+      "uid": 2
+    },
+
+    {
+      "name": "Wilson tennis balls",
+      "description": "Tennis balls used at the Grand Slams",
+      "brand": "Wilson",
+      "category": "balls",
+      "price": 30,
+      "image": "https://i5.walmartimages.com/asr/60f7404f-06fa-4564-bae2-b6d51ff0d963.5c8e9775369ac2bcdc6a248b8fd9ef8b.jpeg",
+      "uid": 3
+    },
+    {
+      "name": "Asics Men's Gel-resolution 8",
+      "description": "Shoes that last forever",
+      "brand": "Asics",
+      "category": "shoes",
+      "price": 90,
+      "image": "https://m.media-amazon.com/images/I/61Thhj9lNWL._AC_UY1000_.jpg",
+      "uid": 4
+    },
+    {
+        "name": "US Open Rafa T-shirt",
+        "description": "Rafael Nadal wore this t-shirt for the 2022 US Open",
+        "brand": "Nike",
+        "category": "clothes",
+        "price": 50,
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2022/09/Rafael-Nadal-1.jpg?quality=75&strip=all&w=1024",
+        "uid": 5
+      },
+      {
+        "name": "Babolat Pure Drive",
+        "description": "Raccquet is endorsed by Fabio Fognini",
+        "brand": "Babolat",
+        "category": "racquets",
+        "price": 50,
+        "image": "https://img.tennis-warehouse.com/watermark/rs.php?path=BRPDR-1.jpg&nw=296",
+        "uid": 6
+      },
+      {
+        "name": "Asics Monfils US Open t-shirt",
+        "description": "Gael Monfils wore this t-shirt for the 2022 US Open",
+        "brand": "Asics",
+        "category": "clothes",
+        "price": 50,
+        "image": "https://dd20lazkioz9n.cloudfront.net/wp-content/uploads/2021/06/monfils2016.jpg",
+        "uid": 7
+      },
+      {
+        "name": "Wilson burn",
+        "description": "This racquet is endorsed by Simona Halep",
+        "brand": "Wilson",
+        "category": "racquets",
+        "price": 50,
+        "image": "https://www.tradeinn.com/f/13626/136261920/wilson-burn-100-team-tennis-racket.jpg",
+        "uid": 8
+      },
+      {
+        "name": "Babolat Pure Aero",
+        "description": "This racquet is endorsed by Rafael Nadal",
+        "brand": "Babolat",
+        "category": "racquets",
+        "price": 50,
+        "image": "https://img.tennis-warehouse.com/watermark/rs.php?path=BPAR-1.jpg&nw=296",
+        "uid": 9
+      },
+      {
+        "name": "Babolat Propulse All court",
+        "description": "These shoes were worn by Felix Auger Aliassime",
+        "brand": "Babolat",
+        "category": "shoes",
+        "price": 50,
+        "image": "https://img.tennis-warehouse.com/watermark/rs.php?path=BMPBWDB-1.jpg&nw=296",
+        "uid": 10
+      },
+      {
+        "name": "Babolat tennis balls",
+        "description": "Official balls for the French Open",
+        "brand": "Babolat",
+        "category": "balls",
+        "price": 25,
+        "image": "https://i.ebayimg.com/images/g/4jAAAOSwuyhhOrFT/s-l500.jpg",
+        "uid": 11
+      },      
+      {
+        "name": "Babolat t-shirt",
+        "description": "Unisex tennis t-shirt",
+        "brand": "Babolat",
+        "category": "clothes",
+        "price": 25,
+        "image": "https://www.tradeinn.com/f/13743/137437357/babolat-exercise-logo-short-sleeve-t-shirt.jpg",
+        "uid": 12
+      }
+        ]
