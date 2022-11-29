@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://largelamb38.github.io/develop/
 
 ### Goal and Value of the Application
 The goal of this application is to be an online tennis shop displaying different categories of items like racquets, clothes, shoes, and balls. Moreover, it displays items of different brands. It provides a quick and easy way for users to filter and sort through items according to their own personal categories. The value of this application is that it allows users to quickly find the items they want by using the sort and filter functions. It saves users a lot of times by reducing search costs.
