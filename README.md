@@ -20,6 +20,8 @@ Once the data is filtered and sorted, we map each item to shopItem.js
 
 In ShopItem.js which contains the code to create an "item card". It follows a very standard format that many ecommerce websites use which is displaying the name of the item at the top, followed by a picture of the item. Then, I put the category and brnad of the item so consumers can easily see what the category/brand is. At the bottom of each card, I have a add to cart and a remove from cart button which changes the contents of the cart.
 
+In shopData.json, it contains all my data which is stored in an array. This kind of acts like a dictionary where each index represents a specific item of the shop. In the array, each item is represented by their own array which contains the fields: title, brand, category, item description, image address, price. 
+
 ### How Data is Passed Down Through Components
 All my data is stored in shopData.json. It contains the title, brand, category, image address, uid, price, and description of each item. The data is intially stored as a state in App.js. App.js checks to see if any of the filter buttons are clicked. If any filters are clicked, the filters will be applied on the data to see if each piece of data matches the filtered criteria. Then, after the data is filtered, it checks if any sorting function is applied, if so, the data will be sorted according to their price (low to high or high to low) or even by (uid) which is the original state. Once the data is filtered and sorted, the data is mapped according to the shopItem.js card so each remaining data is displayed as a card on the webpage.
 
